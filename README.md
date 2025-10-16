@@ -93,9 +93,15 @@ Todo o conteúdo foi adaptado para **português**, mantendo consistência textua
 
 ---
 
-## 📸 Capturas de tela
+### 📸 Capturas de tela
 
-As imagens do wireframe estão disponíveis na pasta `/images` deste repositório.
+Abaixo estão as telas principais do protótipo UNO Universe:
+
+### 🏠 Página Principal
+![Página Principal](images/Pagina%20principal.png)
+
+### 🃏 Página de Cartas
+![Página de Cartas](images/Pagina%202.png)
 
 ---
 
