@@ -78,6 +78,18 @@ O layout segue uma estrutura em **Grid View**, com cards organizados de forma pr
 
 ---
 
+## 🔍 UX Research
+
+Este projeto inclui uma pesquisa completa de experiência do usuário (UX), realizada como parte do desafio da DIO. Foram criadas personas, mapas de jornada, mapa de afinidade e insights estratégicos para orientar o design.
+
+Você pode visualizar os artefatos diretamente no board do Miro:
+
+👉 [Acesse o board de UX Research no Miro](https://miro.com/app/board/uXjVJzQ-pXU=)
+
+Ou consultar os arquivos organizados na pasta [`ux-research`](./ux-research) deste repositório.
+
+---
+
 ## 🔗 Links do projeto
 
 - [Visualizar wireframe no Figma](https://www.figma.com/design/Bq09vBJTeiqXN99HzADdTQ/UNO-Universe-%E2%80%93-Collectible-Game-Portal?node-id=0-1&p=f&t=PhKQcj5DykJnkz1w-0)
