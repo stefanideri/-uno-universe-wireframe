@@ -88,7 +88,11 @@ Você pode visualizar os artefatos diretamente no board do Miro:
 
 Ou consultar os arquivos organizados na pasta [`ux-research`](./ux-research) deste repositório.
 
----
+## 📑 Documentação adicional
+
+- [Briefing do Projeto](./ux-research/briefing.md)
+- [Design System](./ux-research/design-system.md)
+
 
 ## 🔗 Links do projeto
 
