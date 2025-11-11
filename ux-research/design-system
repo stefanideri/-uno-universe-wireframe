@@ -1,0 +1,25 @@
+# Design System – UNO Universe Portal
+
+## 🎨 Paleta de cores
+- Primária: Azul (#1E90FF) – confiança e tecnologia
+- Secundária: Amarelo (#FFD700) – destaque e energia
+- Neutros: Cinza claro (#F5F5F5), Cinza escuro (#333333)
+
+## ✍️ Tipografia
+- Títulos: Montserrat Bold
+- Texto: Open Sans Regular
+- Hierarquia clara entre títulos, subtítulos e corpo de texto
+
+## 🖼 Ícones e espaçamentos
+- Ícones minimalistas em estilo flat
+- Espaçamento padrão de 8px (escala 8, 16, 24, 32)
+
+## 🔘 Componentes principais
+- Botões: primário (azul), secundário (cinza), com estados hover/active
+- Cards: para exibição das cartas colecionáveis
+- Inputs: campos de busca e cadastro com feedback visual
+
+## 📐 Regras de uso
+- Consistência visual em todas as telas
+- Uso da paleta para reforçar hierarquia e acessibilidade
+- Componentes reutilizáveis para garantir escalabilidade
