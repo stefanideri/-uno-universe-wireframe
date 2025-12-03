@@ -93,6 +93,7 @@ Ou consultar os arquivos organizados na pasta [`ux-research`](./ux-research) des
 - [Briefing do Projeto](./ux-research/briefing.md)
 - [Design System](./ux-research/design-system.md)
 
+Esses documentos consolidam a identidade visual, guia de estilos e briefing inspirado na marca UNO.
 
 ## 🔗 Links do projeto
 
@@ -115,12 +116,15 @@ Abaixo estão as telas principais do protótipo UNO Universe:
 
 ## ✅ Checklist do desafio
 
-- [x] Wireframe de média fidelidade
-- [x] Protótipo funcional com 2 páginas
-- [x] Componentes com variantes
-- [x] Interações aplicadas
-- [x] Layout em Grid View
-- [x] README documentado com imagens e links
+✅ Wireframe de média fidelidade  
+✅ Protótipo funcional com 2 páginas  
+✅ Componentes com variantes  
+✅ Interações aplicadas  
+✅ Layout em Grid View  
+✅ README documentado com imagens e links  
+✅ Briefing formal em PDF  
+✅ Design System consolidado em PDF  
+
 
 ---
 
