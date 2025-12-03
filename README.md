@@ -102,17 +102,6 @@ Esses documentos consolidam a identidade visual, guia de estilos e briefing insp
 
 ---
 
-## 📸 Capturas de tela
-
-Abaixo estão as telas principais do protótipo UNO Universe:
-
-### 🏠 Página Principal
-![Página Principal](images/Pagina%20principal.png)
-
-### 🃏 Página de Cartas
-![Página de Cartas](images/Pagina%202.png)
-
----
 
 ## ✅ Checklist do desafio
 
